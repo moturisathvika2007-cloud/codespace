@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<homepage language="en">
+    
+    
+    <metadata>
+        <title>Welcome to Our Platform</title>
+        <description>A modern XML-driven responsive website framework.</description>
+        <brandName>BrandName</brandName>
+    </metadata>
+
+    <!-- Navigation Menu Items -->
+    <navigation>
+        <link target="_self" url="#home">Home</link>
+        <link target="_self" url="#about">About</link>
+        <link target="_self" url="#services">Services</link>
+        <link target="_self" url="#contact">Contact</link>
+    </navigation>
+
+    <!-- Main Hero Banner Section -->
+    <heroSection>
+        <headline>Welcome to Your New Website</headline>
+        <subheading>Create beautiful layouts using simple, clean, and modern structure.</subheading>
+        <ctaButton url="#get-started">Get Started</ctaButton>
+    </heroSection>
+
+    <!-- Main Features / Content Grid -->
+    <featuresSection>
+        <card id="feat-01">
+            <title>Responsive Design</title>
+            <description>Looks perfect on any display including mobile devices, tablets, and desktop computers.</description>
+        </card>
+        <card id="feat-02">
+            <title>Clean Markup</title>
+            <description>Easy to read data following strict hierarchy to ensure maximum performance.</description>
+        </card>
+        <card id="feat-03">
+            <title>Highly Customizable</title>
+            <description>Quickly tweak schema node structures, typography mappings, and accents to match your brand guidelines.</description>
+        </card>
+    </featuresSection>
+
+    <!-- Footer Information -->
+    <footer>
+        <copyright>© 2026 Your Company. All rights reserved.</copyright>
+    </footer>
+
+</homepage>
